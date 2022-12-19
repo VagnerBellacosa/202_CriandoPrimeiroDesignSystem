@@ -36,7 +36,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Criando o seu Primeiro Design System](https://web.dio.me/lab/criando-o-seu-primeiro-design-system/learning/5229504d-1e45-4112-b467-5b699ee17169)[Entendendo o Desafio](https://web.dio.me/lab/criando-o-seu-primeiro-design-system/learning/9c9599be-3adb-428c-bcc6-38d91c2b2c3b)
+- [Criando o seu Primeiro Design System](https://web.dio.me/lab/criando-o-seu-primeiro-design-system/learning/5229504d-1e45-4112-b467-5b699ee17169)
+- [Entendendo o Desafio](https://web.dio.me/lab/criando-o-seu-primeiro-design-system/learning/9c9599be-3adb-428c-bcc6-38d91c2b2c3b)
 
 # Entendendo o Desafio
 
